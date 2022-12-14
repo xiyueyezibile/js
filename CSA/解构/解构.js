@@ -8,7 +8,7 @@ const person = {
   title: ['student', { year: 2022, title: 'GoodStudent' }],
 }
 
-// 你的代码
+// 你的代码a
 let {
   name,
   age,
